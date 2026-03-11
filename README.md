@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Vitor! 👋
 
-<!--
-**vitor-valentin/vitor-valentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Engenharia de Software (FAG) & Técnico em Desenvolvimento de Sistemas (SENAI PR)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Minhas Tecnologias
+
+**Linguagens & Frameworks:**
+- **Back-end:** Node.js (Express), Python, WebSockets.
+- **Front-end:** HTML5, CSS3, TailwindCSS, JavaScript (ES6+).
+- **Banco de Dados:** MySQL.
+
+**Ferramentas & Metodologias:**
+- Git, GitHub, Docker (básico), Metodologias Ágeis (Scrum/Kanban).
+
+---
+
+### 📊 Meu GitHub Stats
+
+![Meus Status do GitHub](https://github-readme-stats.vercel.app/api?username=vitor-valentin&show_icons=true&theme=radical)
+![Top Techs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-valentin&layout=compact&theme=radical)
+
+---
+
+### 📫 Como me encontrar:
+
+- **LinkedIn:** [linkedin.com/in/vitor-valentin](https://www.linkedin.com/in/vitor-valentin-rohling-becker-9965203b6/)
+- **Email:** vitor.rohling.becker@gmail.com
