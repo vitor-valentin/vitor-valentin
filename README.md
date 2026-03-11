@@ -25,5 +25,5 @@
 
 ### 📫 Como me encontrar:
 
-- **LinkedIn:** [linkedin.com/in/vitor-valentin-rohling-becker-9965203b6](https://www.linkedin.com/in/vitor-valentin-rohling-becker-9965203b6/)
+- **LinkedIn:** [linkedin.com/in/vitor-valentin-rb](https://www.linkedin.com/in/vitor-valentin-rb/)
 - **Email:** vitor.rohling.becker@gmail.com
