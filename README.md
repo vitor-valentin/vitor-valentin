@@ -13,7 +13,7 @@
 
 **Ferramentas & Metodologias:**
 - Git, GitHub, Docker (básico), Metodologias Ágeis (Scrum/Kanban).
-- 
+  
 ---
 
 ### 📫 Como me encontrar:
